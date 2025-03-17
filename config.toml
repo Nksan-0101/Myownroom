@@ -1,4 +1,4 @@
 baseURL = "https://nksan-0101.github.io/Myownroom/"
 languageCode = "zh-cn"
 title = "我的 Hugo 网站"
-theme = "ananke"  # ⚠️ 你的 Hugo 主题名称
+theme = "my-theme"  # ⚠️ 你的 Hugo 主题名称
