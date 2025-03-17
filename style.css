@@ -1,0 +1,8 @@
+body {
+  background: url('https://yourimageurl.com/pink-pattern.png'); /* 粉色格纹背景 */
+  color: #ff66b2;  /* 亮粉色字体 */
+  font-family: 'Press Start 2P', cursive; /* 像素风格字体 */
+}
+h1 {
+  text-shadow: 2px 2px #ff99cc;
+}
